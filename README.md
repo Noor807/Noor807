@@ -1,4 +1,4 @@
-![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667](https://github.com/user-attachments/assets/c78110e7-6da1-48bf-aa3d-aef8af3a2fc7)## Hi there 👋
+ Hi there 👋
 
 😄 I am the student of Noroff learning HTML,CSS,JS in Front-end development.Recently done my 1st year and now soon headed over to 2nd year for learning more frameworks.
 
