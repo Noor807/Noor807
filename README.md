@@ -22,11 +22,6 @@ with users. I thrive on exploring new design trends and technologies,continually
  When I’m not coding or designing, you can find me in exploring nature, designing something on figma, delving into the intricacies of human behavior,or experimenting with creative projects. I believe that my diverse background  fuels my creativityand problem-solving abilities, 
 allowing me to approach web design with a unique lens.
 
-## Tech Stacks
-
-
-
-Icone VS-Code Icone VS-Code Icone VS-Code Icone VS-Code
 
 
 ## projects:
