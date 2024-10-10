@@ -25,6 +25,10 @@ allowing me to approach web design with a unique lens.
 ## Tech Stacks
 
 
+
+Icone VS-Code Icone VS-Code Icone VS-Code Icone VS-Code
+
+
 ## projects:
 
 #### -RainyDay
