@@ -51,9 +51,11 @@ events, and educational programs for children aged 7-11.Built with (HTML and CSS
 
  ## Contact here:
 
- inoor8682@gmail.com
+ - inoor8682@gmail.com
  
- iffijan34@yahoo.com
+ - iffijan34@yahoo.com
+
+ - https://www.linkedin.com/in/noor-irfan-03b2202a2/
   
 
                         
