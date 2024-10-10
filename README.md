@@ -23,6 +23,16 @@ with users. I thrive on exploring new design trends and technologies,continually
 allowing me to approach web design with a unique lens.
 
 
+## Technology:
+
+
+
+
+  ![Image 10-10-2024 at 22 43](https://github.com/user-attachments/assets/231b3141-a38f-455d-9e14-a10d931891e6)
+
+
+
+
 
 ## projects:
 
