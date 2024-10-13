@@ -36,7 +36,7 @@ allowing me to approach web design with a unique lens.
 
 ## projects:
 
-### -RainyDay
+### 1. RainyDays
 
 https://noroff-rainydays.netlify.app
 
@@ -44,14 +44,14 @@ Rainydays is a dynamic online jacket store designed for both men and women, offe
 and functional outerwear. The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
 
 
-### -Science Musueum:
+### 2. Science Musueum:
 
 https://lillestrom-smuseum.netlify.app
 
 The Science Museum website is an engaging and informative platform designed to showcase the museum's attractions,
 events, and educational programs for children aged 7-11.Built with (HTML and CSS,) 
 
-### -HotView Labs
+### 3. HotView Labs
 
  https://pagehotviewlabs.netlify.app
 
