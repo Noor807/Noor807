@@ -38,7 +38,7 @@ allowing me to approach web design with a unique lens.
 
 ### 1. RainyDays
 
-https://noroff-rainydays.netlify.app
+Live:🔗 https://noroff-rainydays.netlify.app
 
 Rainydays is a dynamic online jacket store designed for both men and women, offering a wide range of stylish
 and functional outerwear. The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
@@ -46,14 +46,14 @@ and functional outerwear. The website showcases a modern and user-friendly inter
 
 ### 2. Science Musueum:
 
-https://lillestrom-smuseum.netlify.app
+Live:🔗 https://lillestrom-smuseum.netlify.app
 
 The Science Museum website is an engaging and informative platform designed to showcase the museum's attractions,
 events, and educational programs for children aged 7-11.Built with (HTML and CSS,) 
 
 ### 3. HotView Labs
 
- https://pagehotviewlabs.netlify.app
+ Live:🔗 https://pagehotviewlabs.netlify.app
 
  HotView Labs is an innovative online platform dedicated to sharing insights, research findings, and developments
  in the fields of technology, science, and education.
@@ -72,14 +72,16 @@ This project is developed as part of the Semester Project 2 for Noroff, demonstr
 
 ### 5. Blogify
 
-https://blogify-cajs2.netlify.app/auth/login/
+Live:🔗 https://blogify-cajs2.netlify.app/auth/login/
 
+
+In this course assignment, you will be building a client-side social media application. This application will allow users to perform CRUD operations (Create, Read, Update, and Delete) on their own posts, as well as enable additional features such as following/unfollowing users, commenting on posts, and reacting to a post with an emoji.
 
 
 
 ### 6. Online Shopping
 
-https://nortombet.netlify.app
+Live:🔗 https://nortombet.netlify.app
 
 Online-Shopping is a mock e-commerce platform where users can search, sort, and view products, add items to a cart, and go through a full checkout process — all in a safe test environment. It includes a cart system, payment steps, and a contact form for support.
 
@@ -96,7 +98,7 @@ Built with Vite, React, TypeScript, and Tailwind CSS for fast performance, stron
  - https://www.linkedin.com/in/noor-irfan-03b2202a2/
 
 
-gohh
+
   
 
                         
