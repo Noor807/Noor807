@@ -60,7 +60,14 @@ events, and educational programs for children aged 7-11.Built with (HTML and CSS
  The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
 
 
- ### 4. Online Shopping
+### 4. FastBid
+
+Live:🔗 https://2fast2bid.netlify.app
+
+
+
+
+ ### . Online Shopping
 
 https://nortombet.netlify.app
 
