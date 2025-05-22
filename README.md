@@ -70,9 +70,14 @@ FastBid is an auction platform where users can list items for bidding and place 
 This project is developed as part of the Semester Project 2 for Noroff, demonstrating full front-end development with API integration.
 
 
+### 5. Blogify
+
+https://blogify-cajs2.netlify.app/auth/login/
 
 
- ### . Online Shopping
+
+
+### 6. Online Shopping
 
 https://nortombet.netlify.app
 
