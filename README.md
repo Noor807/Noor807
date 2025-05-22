@@ -59,6 +59,17 @@ events, and educational programs for children aged 7-11.Built with (HTML and CSS
  in the fields of technology, science, and education.
  The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
 
+
+ ### 4. Online Shopping
+
+https://nortombet.netlify.app
+
+Online-Shopping is a mock e-commerce platform where users can search, sort, and view products, add items to a cart, and go through a full checkout process — all in a safe test environment. It includes a cart system, payment steps, and a contact form for support.
+
+Built with Vite, React, TypeScript, and Tailwind CSS for fast performance, strong typing, and a responsive UI.
+
+
+
  ## Contact here:
 
  - inoor8682@gmail.com
