@@ -1,6 +1,6 @@
  Hi there 👋
 
-😄 I am the student of Noroff learning HTML,CSS,JS in Front-end development.Recently done my 1st year and now soon headed over to 2nd year for learning more frameworks.
+😄 I am final year student of Noroff learning HTML,CSS,JS in Front-end development.Recently done my 1st year and now soon headed over to 2nd year for learning more frameworks.
 
 ##  My portfolio
 
