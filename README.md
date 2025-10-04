@@ -1,8 +1,9 @@
-# Hi there 👋, I'm [Noor]
+# Hi there 👋, I'm Noor Irfan  
 
-🎓 I just completed my **Final Year Exams** and I’m stepping forward as a **Frontend Developer**.  
+🎓 I just completed my **Final Year Exams in Frontend Development at Noroff** and I’m stepping forward as a **Frontend Developer**.  
 💻 Passionate about building responsive, accessible, and user-friendly web applications.  
 🚀 Always exploring new tools and best practices to improve my craft.  
+
 
 ---
 ##  My portfolio
@@ -11,9 +12,54 @@ https://noor-irfan-portfolio.netlify.app
 
 ----------
 
- 
+
+## What i Explore
+- React.js  – building dynamic, interactive UIs   
+- TypeScript – type-safe, maintainable code  
+- Tailwind CSS – utility-first styling for fast, responsive design  
+- API Integration – RESTful and third-party APIs  
+- Accessibility & Inclusive Design – building for all users  
+- Component-based Design Systems – reusable, scalable UI components  
+- Testing  – Jest, React Testing Library, and Playwright for robust, reliable code  
 
 ---
+
+## 💻 Front-End Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Tools & Frameworks  
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Design & Visuals  
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+
+✨ *Always excited to learn, build, and collaborate on great projects!*  
+
 
 ### 🌱 What I’m up to  
 - 🌟 Looking for **Frontend Developer opportunities**  
@@ -23,17 +69,16 @@ https://noor-irfan-portfolio.netlify.app
 ---
 
 ### 📫 Connect with me  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Portfolio](https://your-portfolio-link.com)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
+- [Portfolio](https://noor-irfan-portfolio.netlify.app)  
+- [Email](mailto:iffijan34@yahoo.com)  
+ 
 
 ---
 
-✨ *Always excited to learn, build, and collaborate on great projects!*  
 
 
-
-## projects:
+## My projects:
 
 ### 1. RainyDays
 
