@@ -4,25 +4,23 @@
 💻 Passionate about building responsive, accessible, and user-friendly web applications.  
 🚀 Always exploring new tools and best practices to improve my craft.  
 
+---
+
+## 🎨 My Portfolio  
+🔗 [noor-irfan-portfolio.netlify.app](https://noor-irfan-portfolio.netlify.app)  
 
 ---
-##  My portfolio
 
-https://noor-irfan-portfolio.netlify.app
-
-
-
-
-## What i Explore
-- React.js  – building dynamic, interactive UIs   
+## 🌿 What I Explore  
+- React.js – building dynamic, interactive UIs  
 - TypeScript – type-safe, maintainable code  
 - Tailwind CSS – utility-first styling for fast, responsive design  
 - API Integration – RESTful and third-party APIs  
 - Accessibility & Inclusive Design – building for all users  
 - Component-based Design Systems – reusable, scalable UI components  
-- Testing  – Jest, React Testing Library, and Playwright for robust, reliable code  
------
+- Testing – Jest, React Testing Library, and Playwright for robust, reliable code  
 
+---
 
 ## 💻 Front-End Development  
 <p align="center">
@@ -35,7 +33,7 @@ https://noor-irfan-portfolio.netlify.app
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-
+---
 
 ## 🧰 Tools & Frameworks  
 <p align="center">
@@ -47,7 +45,7 @@ https://noor-irfan-portfolio.netlify.app
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-
+---
 
 ## 🎨 Design & Visuals  
 <p align="center">
@@ -57,95 +55,89 @@ https://noor-irfan-portfolio.netlify.app
 
 ---
 
-
 ✨ *Always excited to learn, build, and collaborate on great projects!*  
 
+---
 
-### 🌱 What I’m up to  
+## 🌱 What I’m up to  
 - 🌟 Looking for **Frontend Developer opportunities**  
 - 📚 Learning **advanced React patterns** and strengthening **testing & accessibility workflows**  
 - 🎯 Building side projects to sharpen my portfolio  
 
 ---
 
-### 📫 Connect with me  
+## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
 - [Portfolio](https://noor-irfan-portfolio.netlify.app)  
 - [Email](mailto:iffijan34@yahoo.com)  
- 
 
 ---
 
+## 🚀 My Projects  
 
+### 🏡 Holidaze  
+🔗 Live: [Holidaze](https://noor807holidaze.netlify.app)  
+A modern booking app for unique venues. Users can browse, check availability, and book stays, while venue managers manage listings and track bookings.  
+**Built with:** Vite, React, TypeScript & Tailwind CSS  
 
-## My projects:
+---
 
-### 1. RainyDays
+### 🧪 Science Museum  
+🔗 Live: [Science Museum](https://lillestrom-smuseum.netlify.app)  
+An engaging website showcasing attractions, events, and educational programs for children aged 7–11.  
+**Built with:** HTML & CSS  
 
-Live:🔗 https://noroff-rainydays.netlify.app
+---
 
-Rainydays is a dynamic online jacket store designed for both men and women, offering a wide range of stylish
-and functional outerwear. The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
+### 🔬 HotView Labs  
+🔗 Live: [HotView Labs](https://pagehotviewlabs.netlify.app)  
+An online platform for sharing insights, research, and developments in technology, science, and education.  
+**Built with:** HTML, CSS & JavaScript  
 
+---
 
-### 2. Science Musueum:
+### ⚡ FastBid  
+🔗 Live: [FastBid](https://2fast2bid.netlify.app)  
+An auction platform where users list items, place bids, and manage credits. Fully responsive with API integration.  
+**Built with:** HTML, Vanilla JS, Tailwind CSS & REST APIs (Semester Project 2)  
 
-Live:🔗 https://lillestrom-smuseum.netlify.app
+---
 
-The Science Museum website is an engaging and informative platform designed to showcase the museum's attractions,
-events, and educational programs for children aged 7-11.Built with (HTML and CSS,) 
+### 📝 Blogify  
+🔗 Live: [Blogify](https://blogify-cajs2.netlify.app/auth/login/)  
+A social media app where users can create, edit, delete posts, follow/unfollow, comment, and react with emojis.  
+**Built with:** Vite, HTML5, Vanilla JS & REST APIs (Course Assignment)  
 
-### 3. HotView Labs
+---
 
- Live:🔗 https://pagehotviewlabs.netlify.app
+### 🛒 Online Shopping  
+🔗 Live: [Online Shopping](https://nortombet.netlify.app)  
+A mock e-commerce platform with product search, cart, checkout flow, and contact form for support.  
+**Built with:** Vite, React, TypeScript & Tailwind CSS  
 
- HotView Labs is an innovative online platform dedicated to sharing insights, research findings, and developments
- in the fields of technology, science, and education.
- The website showcases a modern and user-friendly interface, built using (HTML, CSS, and JavaScript).
+---
 
+### 🌧 RainyDays  
+🔗 Live: [RainyDays](https://noroff-rainydays.netlify.app)  
+An online jacket store for men and women, offering stylish and functional outerwear with a modern, user-friendly interface.  
+**Built with:** HTML, CSS & JavaScript  
 
-### 4. FastBid
+---
 
-Live:🔗 https://2fast2bid.netlify.app
+## 📬 Contact   
+- 📧 iffijan34@yahoo.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
 
+---
 
-FastBid is an auction platform where users can list items for bidding and place bids on other users' listings. Users start with 1000 credits, which they can use to bid or earn by selling items. The platform is designed to be user-friendly, accessible, and fully responsive.
+## 📊 GitHub Stats  
 
-This project is developed as part of the Semester Project 2 for Noroff, demonstrating full front-end development with API integration.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor807&show_icons=true&theme=radical" alt="Noor's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor807&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
 
-
-### 5. Blogify
-
-Live:🔗 https://blogify-cajs2.netlify.app/auth/login/
-
-
-In this course assignment, you will be building a client-side social media application. This application will allow users to perform CRUD operations (Create, Read, Update, and Delete) on their own posts, as well as enable additional features such as following/unfollowing users, commenting on posts, and reacting to a post with an emoji.
-
-
-
-### 6. Online Shopping
-
-Live:🔗 https://nortombet.netlify.app
-
-
-Online-Shopping is a mock e-commerce platform where users can search, sort, and view products, add items to a cart, and go through a full checkout process — all in a safe test environment. It includes a cart system, payment steps, and a contact form for support.
-
-Built with Vite, React, TypeScript, and Tailwind CSS for fast performance, strong typing, and a responsive UI.
-
-
-
- ## Contact here:
-
- - inoor8682@gmail.com
- 
- - iffijan34@yahoo.com
-
- - https://www.linkedin.com/in/noor-irfan-03b2202a2/
-
-
-
-  
-
-                        
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Noor807&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
