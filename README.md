@@ -10,7 +10,7 @@
 
 https://noor-irfan-portfolio.netlify.app
 
-----------
+
 
 
 ## What i Explore
@@ -21,8 +21,8 @@ https://noor-irfan-portfolio.netlify.app
 - Accessibility & Inclusive Design – building for all users  
 - Component-based Design Systems – reusable, scalable UI components  
 - Testing  – Jest, React Testing Library, and Playwright for robust, reliable code  
+-----
 
----
 
 ## 💻 Front-End Development  
 <p align="center">
@@ -35,7 +35,7 @@ https://noor-irfan-portfolio.netlify.app
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
----
+
 
 ## 🧰 Tools & Frameworks  
 <p align="center">
@@ -47,7 +47,7 @@ https://noor-irfan-portfolio.netlify.app
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
----
+
 
 ## 🎨 Design & Visuals  
 <p align="center">
