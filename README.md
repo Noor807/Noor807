@@ -18,7 +18,7 @@
 - API Integration – RESTful and third-party APIs  
 - Accessibility & Inclusive Design – building for all users  
 - Component-based Design Systems – reusable, scalable UI components  
-- Testing – Jest, React Testing Library, and Playwright for robust, reliable code  
+- Testing – Jest, React Testing Library, and Playwright for robust, reliable code.  
 
 ---
 
