@@ -14,7 +14,7 @@
 ## 🌿 What I Explore  
 - React.js – building dynamic, interactive UIs  
 - TypeScript – type-safe, maintainable code  
-- Tailwind CSS – utility-first styling for fast, responsive design  
+- Tailwind CSS – utility-first styling for fast, responsive design.  
 - API Integration – RESTful and third-party APIs  
 - Accessibility & Inclusive Design – building for all users  
 - Component-based Design Systems – reusable, scalable UI components  
