@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Noor Irfan  
 
 🎓 I just completed my **Final Year Exams in Frontend Development at Noroff** and I’m stepping forward as a **Frontend Developer**.  
-💻 Passionate about building responsive, accessible, and user-friendly web applications.  
-🚀 Always exploring new tools and best practices to improve my craft.  
+ Passionate about building responsive, accessible, and user-friendly web applications.  
+ Always exploring new tools and best practices to improve my craft.  
 
 ---
 
