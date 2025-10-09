@@ -68,7 +68,7 @@
 
 ## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
-- [Portfolio](https://noor-irfan-portfolio.netlify.app)  
+- [Portfolio](https://noor-irfan.netlify.app)  
 - [Email](mailto:iffijan34@yahoo.com)  
 
 ---
