@@ -69,7 +69,7 @@
 ## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
 - [Portfolio](https://noor-irfan.netlify.app)  
-- [Email](mailto:iffijan34@yahoo.com)  
+- 📧 iffijan34@yahoo.com 
 
 ---
 
@@ -122,11 +122,7 @@ A mock e-commerce platform with product search, cart, checkout flow, and contact
 An online jacket store for men and women, offering stylish and functional outerwear with a modern, user-friendly interface.  
 **Built with:** HTML, CSS & JavaScript  
 
----
 
-## 📬 Contact   
-- 📧 iffijan34@yahoo.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
 
 ---
 
