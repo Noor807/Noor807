@@ -7,7 +7,7 @@
 ---
 
 ## 🎨 My Portfolio  
-🔗 [noor-irfan-portfolio.netlify.app](https://noor-irfan-portfolio.netlify.app)  
+🔗 [noor-irfan-portfolio.netlify.app](https://noor-irfan.netlify.app)  
 
 ---
 
