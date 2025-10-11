@@ -77,19 +77,6 @@ When I’m not coding, I love to cook 🍳🥘🥗  and spend quality time with 
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noor807&show_icons=true&theme=radical" alt="Noor's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor807&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Noor807&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Projects  
 *(This is my work for full project details, check the pinned repositories or visit my portfolio.)*  
 
@@ -107,6 +94,23 @@ When I’m not coding, I love to cook 🍳🥘🥗  and spend quality time with 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)**  
 - 🌐 **[Portfolio](https://noor-irfan.netlify.app)**  
 - 📧 **[Email: iffijan34@yahoo.com](mailto:iffijan34@yahoo.com)**
+
+--------
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noor807&show_icons=true&theme=radical" alt="Noor's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noor807&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Noor807&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+
 
 
 ---
