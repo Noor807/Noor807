@@ -18,7 +18,7 @@ When I’m not coding, I love to cook 🍳🥘🥗  and spend quality time with 
 ---
 
 ##  My Portfolio  
-👉 [**noor-irfan.netlify.app**](https://noor-irfan.netlify.app)
+## 👉 [**noor-irfan.netlify.app**](https://noor-irfan.netlify.app)
 
 ---
 
@@ -102,10 +102,12 @@ When I’m not coding, I love to cook 🍳🥘🥗  and spend quality time with 
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)  
-- 🌐 [Portfolio](https://noor-irfan.netlify.app)  
-- 📧 [iffijan34@yahoo.com](mailto:iffijan34@yahoo.com)
+## 📫 **Connect with Me**  
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/noor-irfan-03b2202a2/)**  
+- 🌐 **[Portfolio](https://noor-irfan.netlify.app)**  
+- 📧 **[Email: iffijan34@yahoo.com](mailto:iffijan34@yahoo.com)**
+
 
 ---
 
